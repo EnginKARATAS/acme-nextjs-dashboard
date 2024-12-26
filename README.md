@@ -1,3 +1,5 @@
+# ACME Nextjs-Dashboard
+The project was made together with next.js to learn nextjs. 
 ## Topics Covered:
 - pnpm
 - vite
