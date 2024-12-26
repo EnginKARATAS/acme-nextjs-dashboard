@@ -1,5 +1,5 @@
 ## Topics Covered:
-- pnp+m
+- pnpm
 - vite
 - tailwind
 - clsx
