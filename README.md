@@ -1,9 +1,9 @@
 ## Topics Covered:
-pnp+m
-vite
-tailwind
-clsx
-css modules 
-font and image optimizations
-nextjs shared layout,
-creating segments and leaf segments for routing
+- pnp+m
+- vite
+- tailwind
+- clsx
+- css modules 
+- font and image optimizations
+- nextjs shared layout,
+- creating segments and leaf segments for routing
