@@ -8,4 +8,4 @@ The project was made together with next.js to learn nextjs.
 - css modules 
 - font and image optimizations
 - nextjs shared layout,
-- creating segments and leaf segments for routing
+- creating segments and leaf segments
